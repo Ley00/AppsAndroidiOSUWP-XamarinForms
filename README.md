@@ -1,3 +1,4 @@
+<!-- Emojis - https://emojidb.org/developer-emojis?user_typed_query=1&utm_source=user_search-->
 <!--<h1 align="center">
   <br>
     <img src="https://svgshare.com/i/G_S.svg" alt="TinDev" width="120">
@@ -25,7 +26,8 @@
 
 This app features all the latest tools and practices in mobile development!
 
-- 📱 **Xamarin Forms** - A cross-platform and open-source for iOS, Android, and Windows apps with 
+- 📱 **Xamarin Forms** - A cross-platform and open-source for iOS, Android, and Windows apps with
+- © #️⃣ **CSharp** - A platform back-end
 <!-- - ⚛️ **React Js** — A JavaScript library for building user interfaces
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 - 💹 **Node Js** — A web framework for Node Js
