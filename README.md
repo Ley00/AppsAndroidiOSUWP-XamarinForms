@@ -1,24 +1,23 @@
 <!-- Emojis - https://emojidb.org/developer-emojis?user_typed_query=1&utm_source=user_search-->
-<!--<h1 align="center">
+<h1 align="center">
   <br>
-    <img src="https://svgshare.com/i/G_S.svg" alt="TinDev" width="120">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30672542/282476186-b8f4eb4c-7335-476e-9c9d-b31cbc232dd8.png" alt="TinDev" width="500">
   <br>
   <br>
-  AppsAndroidiOSUWP
-</h1>-->
-
-<p align="center">Some learning-based mobile apps in Xamarin Forms</p>
+  Some learning-based mobile apps in Xamarin Forms.
+</h1>
 
 <!--<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  <a>
+    Some learning-based mobile apps in Xamarin Forms.
   </a>
 </p>-->
 
-<!--<div>
-  <img src="https://i.ibb.co/GJfb2X4/web.gif" alt="demo-web" height="425">
-  <img src="https://i.ibb.co/zHbFDyd/mobile.gif" alt="demo-mobile" height="425">
-</div>-->
+<div align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30672542/282489376-918f9a21-0a75-4482-be23-3aa672426f8e.png" alt="demo-web" height="400">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30672542/282489650-ece787b8-1592-4862-95a0-d5ae34a8ab2e.png" height="400">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30672542/282489895-72961efa-2bd5-444d-a396-f17d67acb0e4.png" height="400">
+</div>
 
 <hr />
 
@@ -28,6 +27,8 @@ This app features all the latest tools and practices in mobile development!
 
 - 📱 **Xamarin Forms** - A cross-platform and open-source for iOS, Android, and Windows apps with
 - © #️⃣ **CSharp** - A platform back-end
+- 🛢 SQLite - Implements a built-in SQL database
+- 🌐 WebServices SOAP e REST -Chat Project Development
 <!-- - ⚛️ **React Js** — A JavaScript library for building user interfaces
 - ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
 - 💹 **Node Js** — A web framework for Node Js
